@@ -254,6 +254,49 @@ Restaurants, hotels, catering companies, corporate cafeterias, and supermarkets 
 - Improved dynamic pricing with RL  
 
 ---
+---
+
+## 8. Pipeline & Team Experience  
+
+This project was also developed within a **data pipeline structure**, ensuring that each module (demand forecasting, dynamic pricing, recommendations, donations, geographic analysis) was connected end-to-end in a reproducible workflow.  
+
+Our team of **4 members** divided the responsibilities across data collection, modeling, backend integration, and analytics. This allowed us to simulate a real-world collaborative project environment.  
+
+For most of us, this was a **new and transformative experience in Data Science** — combining machine learning, optimization, and social impact into a single product. Beyond technical skills, it helped us understand teamwork, pipeline design, and the importance of connecting algorithms with real-world societal challenges.  
+
+---
+
+## 🔗 References & Datasets  
+
+- **Food Demand Forecasting Dataset (Kaggle):**  
+  https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting  
+
+- **POS Data – Simulated Restaurant Data (Kaggle):**  
+  https://www.kaggle.com/datasets/ganeshabbitota/pos-data-simulated-restaurant-data  
+
+- **NYC Restaurant & Yelp Inspection Data:**  
+  https://github.com/rspiro9/NYC-Restaurant-Yelp-and-Inspection-Analysis/blob/main/data.pickle  
+
+- **Open Food Facts (Product & Category Data):**  
+  https://world.openfoodfacts.org/data  
+
+- **OpenStreetMap (Geographic Data):**  
+  https://www.openstreetmap.org  
+
+- **Food Ordering & Delivery App Dataset (Kaggle):**  
+  https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset  
+
+- **NYC Food Insecurity Data:**  
+  https://github.com/NewYorkCityCouncil/food_insecurity/blob/main/data/input/EFAP_pdf_11_4_24.csv  
+
+- **FAO Food Loss & Waste Data Platform:**  
+  https://www.fao.org/platform-food-loss-waste/flw-data/en/  
+
+---
+
+## 📌 Project Vision  
+**FOOD BRIDGE aims to build a sustainable ecosystem where technology, social responsibility, and data science intersect to fight food waste and support communities.**
+
 
 ## 📌 Project Vision  
 **FOOD BRIDGE aims to build a sustainable ecosystem where technology, social responsibility, and data science intersect to fight food waste and support communities.**
